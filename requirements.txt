@@ -223,7 +223,6 @@ python-card-me==0.9.3
 python-dateutil==2.7.5
 python-openid==2.2.5
 pytz==2017.2
-PyYAML==3.13
 pyzmq==17.1.2
 qtconsole==4.4.3
 ratelim==0.1.6
