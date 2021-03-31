@@ -166,7 +166,7 @@ Kivy-Garden==0.1.4
 kiwisolver==1.0.1
 kombu==4.2.1
 ldif3==3.1.1
-lxml==4.2.5
+lxml==4.6.3
 Markdown==3.0.1
 MarkupSafe==1.1.0
 matplotlib==3.0.1
