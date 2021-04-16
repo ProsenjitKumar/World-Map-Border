@@ -47,7 +47,7 @@ django-cms==3.5.2
 django-compressor==2.2
 django-compressor-toolkit==0.6.0
 django-crispy-forms==1.7.2
-django-debug-toolbar==1.10.1
+django-debug-toolbar==1.11.1
 django-debug-toolbar-alchemy==0.1.5
 django-debug-toolbar-request-history==0.0.9
 django-disqus==0.5
