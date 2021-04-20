@@ -202,7 +202,7 @@ psycopg-postgis==0.4.0
 psycopg2==2.7.6.1
 psycopg2-binary==2.7.6.1
 ptyprocess==0.6.0
-py==1.7.0
+py==1.10.0
 pyasn1==0.4.4
 pyasn1-modules==0.2.2
 pydot==1.2.4
