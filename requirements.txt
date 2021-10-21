@@ -8,7 +8,7 @@ appdirs==1.4.3
 astor==0.7.1
 atomicwrites==1.2.1
 attrs==18.2.0
-Babel==2.6.0
+Babel==2.9.1
 backcall==0.1.0
 bangla==0.0.2
 Beaker==1.10.0
