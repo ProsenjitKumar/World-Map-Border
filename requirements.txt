@@ -212,7 +212,7 @@ pyicloud-dwoh==0.4.1
 PyJWT==1.6.4
 pymongo==2.7.1
 pyparsing==2.2.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 PyQt5==5.11.3
 PyQt5-sip==4.19.13
 pyqtdeploy==2.2
