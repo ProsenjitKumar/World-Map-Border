@@ -209,7 +209,7 @@ pydot==1.2.4
 pygame==1.9.4
 Pygments==2.2.0
 pyicloud-dwoh==0.4.1
-PyJWT==1.6.4
+PyJWT==2.4.0
 pymongo==2.7.1
 pyparsing==2.2.0
 PyPDF2==1.26.0
