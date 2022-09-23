@@ -197,7 +197,7 @@ poloniex==0.0.17
 postgis==1.0.4
 prometheus-client==0.4.2
 prompt-toolkit==2.0.7
-protobuf==3.6.1
+protobuf==3.18.3
 psycopg-postgis==0.4.0
 psycopg2==2.7.6.1
 psycopg2-binary==2.7.6.1
